@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Gro</string>
+
+    <string name="train">Train</string>
+    <string name="test">Test</string>
+    <string name="dummy_content">Gro</string>
+    <string name="title_activity_train">Train</string>
+    <string name="title_activity_test">Test</string>
+    <string name="error_no_sensor">No Sensor</string>
+    <string name="gyro_text">Gyroscope</string>
+    <string name="accelro_text">Accelerometer</string>
+
+    <string name="gx">Gx</string>
+    <string name="gy">Gy</string>
+    <string name="gz">Gz</string>
+    <string name="ax">Ax</string>
+    <string name="ay">Ay</string>
+    <string name="az">Az</string>
+
+
+</resources>
