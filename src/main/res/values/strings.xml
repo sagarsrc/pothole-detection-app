@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gro</string>
+
+    <string name="train">Train</string>
+    <string name="test">Test</string>
+    <string name="dummy_content">Gro</string>
+    <string name="title_activity_train">Train</string>
+    <string name="title_activity_test">Test</string>
+</resources>
