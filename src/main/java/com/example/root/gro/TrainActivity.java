@@ -1,11 +1,13 @@
 package com.example.root.gro;
 
+import android.content.Context;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorEventListener2;
 import android.hardware.SensorManager;
 import android.os.Bundle;
+import android.os.Environment;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
@@ -14,6 +16,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
+
 
 public class TrainActivity extends AppCompatActivity implements SensorEventListener {
 
@@ -34,8 +37,24 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
     float[] gyroData;
     float[] accleroData;
 
+    // FileStorage object
+    FileStorage f_ob = new FileStorage();
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
+
+        f_ob.setDirectoryStructure("DataSensors");
+        float data[];
+        data = new float[3];
+        data[0] = 1.1f;
+        data[1] = 2.1f;
+        data[2] = 3.1f;
+
+        f_ob.writeToFile(getBaseContext(), "/DataSensors/gyro-data/", "gyro.csv", data);
+        f_ob.writeToFile(getBaseContext(), "/DataSensors/acc-data/", "acc.csv", data);
+
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_train);
 
@@ -103,6 +122,7 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
         super.onStop();
         mSensorManager.unregisterListener(this);
     }
+
 
     @Override
     public void onSensorChanged(SensorEvent event) {
