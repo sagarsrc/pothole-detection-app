@@ -89,6 +89,8 @@ public class FullscreenActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        FileStorage f_ob = new FileStorage();
+
         setContentView(R.layout.activity_fullscreen);
 
         mVisible = true;
