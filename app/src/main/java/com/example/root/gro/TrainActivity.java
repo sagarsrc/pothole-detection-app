@@ -38,21 +38,21 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
     float[] accleroData;
 
     // FileStorage object
-    FileStorage f_ob = new FileStorage();
+    // FileStorage f_ob = new FileStorage();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
 
-        f_ob.setDirectoryStructure("DataSensors");
+        // f_ob.setDirectoryStructure("DataSensors");
         float data[];
         data = new float[3];
         data[0] = 1.1f;
         data[1] = 2.1f;
         data[2] = 3.1f;
 
-        f_ob.writeToFile(getBaseContext(), "/DataSensors/gyro-data/", "gyro.csv", data);
-        f_ob.writeToFile(getBaseContext(), "/DataSensors/acc-data/", "acc.csv", data);
+        // f_ob.writeToFile(getBaseContext(), "/DataSensors/gyro-data/", "gyro.csv", data);
+        // f_ob.writeToFile(getBaseContext(), "/DataSensors/acc-data/", "acc.csv", data);
 
 
         super.onCreate(savedInstanceState);
