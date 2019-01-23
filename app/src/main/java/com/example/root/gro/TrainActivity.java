@@ -47,9 +47,6 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
     // FileStorage object
      FileStorage f_ob = new FileStorage();
 
-    Calendar c = Calendar.getInstance();
-    SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -148,6 +145,10 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
     @Override
     public void onSensorChanged(SensorEvent event) {
         int sensorType = event.sensor.getType();
+
+
+        Calendar c = Calendar.getInstance();
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
 
 
         switch (sensorType) {
