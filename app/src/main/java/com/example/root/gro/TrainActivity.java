@@ -17,6 +17,10 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
 
 public class TrainActivity extends AppCompatActivity implements SensorEventListener {
 
@@ -38,13 +42,17 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
     float[] accleroData;
 
     // FileStorage object
-    FileStorage f_ob = new FileStorage();
+     FileStorage f_ob = new FileStorage();
+
+    Calendar c = Calendar.getInstance();
+    SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
 
-        // f_ob.setDirectoryStructure("DataSensors");
+        //f_ob.setDirectoryStructure("DataSensors");
         float data[];
         data = new float[3];
         data[0] = 1.1f;
@@ -53,6 +61,8 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
         // f_ob.writeToFile(getBaseContext(), "/DataSensors/gyro-data/", "gyro.csv", data);
         // f_ob.writeToFile(getBaseContext(), "/DataSensors/acc-data/", "acc.csv", data);
+
+        f_ob.csvfilesinitialize();
 
 
         super.onCreate(savedInstanceState);
@@ -139,6 +149,12 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
                 textViewGy.setText(String.format("%.4f", gyroData[1]));
                 textViewGz.setText(String.format("%.4f", gyroData[2]));
 
+                try {
+                    f_ob.gyrowriter(gyroData[0],gyroData[1],gyroData[2],simpleDateFormat.format(c.getTime()));
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+
                 // Toast is working
                 // Toast.makeText(getApplicationContext(), String.format ("%.4f", gyroData[0]),Toast.LENGTH_SHORT).show();
                 break;
@@ -150,6 +166,13 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
                 textViewAx.setText(String.format("%.4f", accleroData[0]));
                 textViewAy.setText(String.format("%.4f", accleroData[1]));
                 textViewAz.setText(String.format("%.4f", accleroData[2]));
+
+                //f_ob.writeToFile();
+                try {
+                    f_ob.accelerowriter(accleroData[0],accleroData[1],accleroData[2],simpleDateFormat.format(c.getTime()));
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
 
                 break;
 

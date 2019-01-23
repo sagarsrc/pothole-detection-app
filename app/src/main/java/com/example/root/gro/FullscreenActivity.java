@@ -113,17 +113,17 @@ public class FullscreenActivity extends AppCompatActivity {
         findViewById(R.id.test_btn).setOnTouchListener(mDelayHideTouchListener);
     }
 
+        public void launchTrainActivity(View view){
+            // String LOG_TAG = null;
+            // Log.d(LOG_TAG, "Train Button clicked!");
 
-    protected void launchTrainActivity(View view) {
-        // String LOG_TAG = null;
-        // Log.d(LOG_TAG, "Train Button clicked!");
+            Intent intent = new Intent(this, TrainActivity.class);
+            startActivity(intent);
 
-        Intent intent = new Intent(this, TrainActivity.class);
-        startActivity(intent);
+        }
 
-    }
 
-    protected void launchTestActivity(View view) {
+    public void launchTestActivity(View view) {
         // String LOG_TAG = null;
         // Log.d(LOG_TAG, "Test Button clicked!");
 
