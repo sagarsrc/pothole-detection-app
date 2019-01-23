@@ -40,6 +40,9 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
     float[] gyroData;
     float[] accleroData;
+    float[] lastgyroData;
+    float[] lastacceleroData;
+
 
     // FileStorage object
      FileStorage f_ob = new FileStorage();
@@ -83,6 +86,14 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
         gyroData = new float[3];
         accleroData = new float[3];
+        lastgyroData = new float[3];
+        lastacceleroData = new float[3];
+
+        for(int i=0;i<3;i++)
+        {
+            gyroData[i]=0;
+            accleroData[i]=0;
+        }
 
 
         textViewGx = (TextView) findViewById(R.id.gx);
@@ -150,9 +161,14 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
                 textViewGz.setText(String.format("%.4f", gyroData[2]));
 
                 try {
-                    f_ob.gyrowriter(gyroData[0],gyroData[1],gyroData[2],simpleDateFormat.format(c.getTime()));
+                    f_ob.datawriter(simpleDateFormat.format(c.getTime()),gyroData[0],gyroData[1],gyroData[2],lastacceleroData[0],lastacceleroData[1],lastacceleroData[2]);
                 } catch (IOException e) {
                     e.printStackTrace();
+                }
+
+                for(int i=0;i<3;i++)
+                {
+                    lastgyroData[i]=gyroData[i];
                 }
 
                 // Toast is working
@@ -169,9 +185,14 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
                 //f_ob.writeToFile();
                 try {
-                    f_ob.accelerowriter(accleroData[0],accleroData[1],accleroData[2],simpleDateFormat.format(c.getTime()));
+                    f_ob.datawriter(simpleDateFormat.format(c.getTime()),lastgyroData[0],lastgyroData[1],lastgyroData[2],accleroData[0],accleroData[1],accleroData[2]);
                 } catch (IOException e) {
                     e.printStackTrace();
+                }
+
+                for(int i=0;i<3;i++)
+                {
+                    lastacceleroData[i]=accleroData[i];
                 }
 
                 break;
