@@ -42,7 +42,7 @@ public class FileStorage {
         {
             try{
                 writer = new FileWriter(gpxfile);
-                writeFileHeader("Timestamp","Gx","Gy","Gz","Ax","Ay","Az");
+                writeFileHeader("Time","Gx","Gy","Gz","Ax","Ay","Az");
 
                 writer.flush();
                 writer.close();

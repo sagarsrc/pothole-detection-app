@@ -148,7 +148,7 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
 
         Calendar c = Calendar.getInstance();
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss:ms");
 
 
         switch (sensorType) {
@@ -162,7 +162,7 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
                 textViewGz.setText(String.format("%.4f", gyroData[2]));
 
                 try {
-                    f_ob.datawriter(simpleDateFormat.format(c.getTime()),gyroData[0],gyroData[1],gyroData[2],lastacceleroData[0],lastacceleroData[1],lastacceleroData[2]);
+                    f_ob.datawriter(simpleDateFormat.format(c.getTimeInMillis()),gyroData[0],gyroData[1],gyroData[2],lastacceleroData[0],lastacceleroData[1],lastacceleroData[2]);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }
@@ -186,7 +186,7 @@ public class TrainActivity extends AppCompatActivity implements SensorEventListe
 
                 //f_ob.writeToFile();
                 try {
-                    f_ob.datawriter(simpleDateFormat.format(c.getTime()),lastgyroData[0],lastgyroData[1],lastgyroData[2],accleroData[0],accleroData[1],accleroData[2]);
+                    f_ob.datawriter(simpleDateFormat.format(c.getTimeInMillis()),lastgyroData[0],lastgyroData[1],lastgyroData[2],accleroData[0],accleroData[1],accleroData[2]);
                 } catch (IOException e) {
                     e.printStackTrace();
                 }

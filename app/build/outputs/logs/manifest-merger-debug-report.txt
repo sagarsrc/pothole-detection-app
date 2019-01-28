@@ -1,154 +1,154 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-MERGED from [com.android.support:design:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/39896f8a1f4d581d28ae9c8dc66d9de5/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f9c39f8b5cd5b64565cfc0a5a3a76698/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/69f464638ceb1a84959c5618e3cbb98e/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/akash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c5ef0d37719431f7b79f035b4a260997/AndroidManifest.xml:2:1-11:12
-MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72c9317b2c982348fa596edfe5696cbe/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ff5a4ebc8bb93fb4c24464513439dc3d/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c83d23ad340718f77caca72798c22f6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/866cdf2cb1ece4f80d1fe95bf34b3766/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79517a2e56ff9ec8cd6ac960720cef17/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac062d53f5f69cb7b09ed68819aa7eeb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3eea30491a6469dd1cf0941e7d6931ee/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:transition:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0b1f1f785f99c83416ed557707af5a9b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/90206b18e0f9fb04550d20cb96043ed2/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37a04907006374cdbbbc87da84a253be/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/06fda0e90ec787f390c98cda2b0b0be3/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8666a90483c4ed48451d9a42f3a3f12/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8078ff08bfeff343e520e1a101aa8ab8/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/971f7f3e7c995072b739a020787e5e92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e1d9f423c249ff66231a4fc150f7ebbd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7d69e6f35873d0cfcda58762c6ba1bea/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c828d378e97a2535307326536120c719/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ffc415da6e243a3addc3ebef4012a016/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7abaabfa3c0d0dc3b36ab71ec62818ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3bdfa50bd76abc287db510904e265b9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5c6fccf300b3af912a30b2587d71875d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ed4e4a86f3543a3e6a9b68e336be12f7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8949fb7c96445675d6ac3fc0085505a1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8c5c053829de4d815126a9dcb7d7e6c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6317de4f6eeeeb6309f8fb008f0c6b77/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b93d496aff9244ca81837c85ddf1b092/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37b83bf9fc78e6e224302cca4541f159/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e476a84ac5b1232d0fe5f6ed80915f39/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/168a7c73781892762ba1fe82306d3cd0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aabf16d220deb7daa4735e80d6231fad/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
 	package
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:4:5-35
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:4:5-35
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:5:5-51
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:5:5-51
 	android:versionCode
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:1-42:12
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:1-42:12
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:3:11-69
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:3:11-69
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:7:5-9:32
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:7:5-9:32
 	tools:node
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:9:9-29
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:9:9-29
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:8:9-65
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:8:9-65
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:10:5-12:32
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:10:5-12:32
 	tools:node
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:12:9-29
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:12:9-29
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:11:9-64
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:11:9-64
 application
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:14:5-40:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/akash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c5ef0d37719431f7b79f035b4a260997/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/akash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c5ef0d37719431f7b79f035b4a260997/AndroidManifest.xml:9:5-20
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:14:5-40:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c828d378e97a2535307326536120c719/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c828d378e97a2535307326536120c719/AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:17:9-41
 	android:roundIcon
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:18:9-54
 	android:icon
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:15:9-35
 	android:theme
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:20:9-40
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:20:9-40
 activity#com.example.root.gro.FullscreenActivity
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:21:9-31:20
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:21:9-31:20
 	android:label
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:24:13-45
 	android:configChanges
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:23:13-74
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:23:13-74
 	android:theme
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:25:13-51
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:25:13-51
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:22:13-47
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:22:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:26:13-30:29
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:29:17-77
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:29:27-74
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:29:27-74
 activity#com.example.root.gro.TrainActivity
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:32:9-35:59
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:32:9-35:59
 	android:label
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:34:13-57
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:34:13-57
 	android:theme
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:35:13-56
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:33:13-42
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:33:13-42
 activity#com.example.root.gro.TestActivity
-ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:36:9-39:68
+ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:36:9-39:68
 	android:label
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:38:13-56
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:38:13-56
 	android:theme
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:39:13-56
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:39:13-56
 	android:name
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml:37:13-41
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml:37:13-41
 uses-sdk
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:design:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/39896f8a1f4d581d28ae9c8dc66d9de5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:design:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/39896f8a1f4d581d28ae9c8dc66d9de5/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f9c39f8b5cd5b64565cfc0a5a3a76698/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f9c39f8b5cd5b64565cfc0a5a3a76698/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/69f464638ceb1a84959c5618e3cbb98e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/69f464638ceb1a84959c5618e3cbb98e/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/akash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c5ef0d37719431f7b79f035b4a260997/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/akash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c5ef0d37719431f7b79f035b4a260997/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72c9317b2c982348fa596edfe5696cbe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72c9317b2c982348fa596edfe5696cbe/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ff5a4ebc8bb93fb4c24464513439dc3d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/ff5a4ebc8bb93fb4c24464513439dc3d/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c83d23ad340718f77caca72798c22f6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/5c83d23ad340718f77caca72798c22f6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/866cdf2cb1ece4f80d1fe95bf34b3766/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/866cdf2cb1ece4f80d1fe95bf34b3766/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79517a2e56ff9ec8cd6ac960720cef17/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/79517a2e56ff9ec8cd6ac960720cef17/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac062d53f5f69cb7b09ed68819aa7eeb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/ac062d53f5f69cb7b09ed68819aa7eeb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3eea30491a6469dd1cf0941e7d6931ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/3eea30491a6469dd1cf0941e7d6931ee/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0b1f1f785f99c83416ed557707af5a9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:transition:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/0b1f1f785f99c83416ed557707af5a9b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/90206b18e0f9fb04550d20cb96043ed2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /home/akash/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/90206b18e0f9fb04550d20cb96043ed2/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37a04907006374cdbbbc87da84a253be/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37a04907006374cdbbbc87da84a253be/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/06fda0e90ec787f390c98cda2b0b0be3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/06fda0e90ec787f390c98cda2b0b0be3/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8666a90483c4ed48451d9a42f3a3f12/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/d8666a90483c4ed48451d9a42f3a3f12/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8078ff08bfeff343e520e1a101aa8ab8/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /home/akash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8078ff08bfeff343e520e1a101aa8ab8/AndroidManifest.xml:20:5-44
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/971f7f3e7c995072b739a020787e5e92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/971f7f3e7c995072b739a020787e5e92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e1d9f423c249ff66231a4fc150f7ebbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e1d9f423c249ff66231a4fc150f7ebbd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7d69e6f35873d0cfcda58762c6ba1bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/7d69e6f35873d0cfcda58762c6ba1bea/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c828d378e97a2535307326536120c719/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /root/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/c828d378e97a2535307326536120c719/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ffc415da6e243a3addc3ebef4012a016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ffc415da6e243a3addc3ebef4012a016/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7abaabfa3c0d0dc3b36ab71ec62818ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/7abaabfa3c0d0dc3b36ab71ec62818ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3bdfa50bd76abc287db510904e265b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/3bdfa50bd76abc287db510904e265b9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5c6fccf300b3af912a30b2587d71875d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/5c6fccf300b3af912a30b2587d71875d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ed4e4a86f3543a3e6a9b68e336be12f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ed4e4a86f3543a3e6a9b68e336be12f7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8949fb7c96445675d6ac3fc0085505a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8949fb7c96445675d6ac3fc0085505a1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8c5c053829de4d815126a9dcb7d7e6c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/8c5c053829de4d815126a9dcb7d7e6c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6317de4f6eeeeb6309f8fb008f0c6b77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/6317de4f6eeeeb6309f8fb008f0c6b77/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b93d496aff9244ca81837c85ddf1b092/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /root/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b93d496aff9244ca81837c85ddf1b092/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37b83bf9fc78e6e224302cca4541f159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/37b83bf9fc78e6e224302cca4541f159/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e476a84ac5b1232d0fe5f6ed80915f39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e476a84ac5b1232d0fe5f6ed80915f39/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/168a7c73781892762ba1fe82306d3cd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/168a7c73781892762ba1fe82306d3cd0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aabf16d220deb7daa4735e80d6231fad/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /root/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/aabf16d220deb7daa4735e80d6231fad/AndroidManifest.xml:20:5-44
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		ADDED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
-		INJECTED from /home/akash/StudioProjects/pot/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		ADDED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sag/AndroidProjects/Gro/app/src/main/AndroidManifest.xml
